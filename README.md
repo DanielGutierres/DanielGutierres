@@ -1,8 +1,7 @@
 ### Olá! Sou o Daniel Gutierres 👋
 
 - 🔭 Hoje Trabalho com front-end
-- 🌱 Estou atualemte aprendendo Typescript
-- 😄 Pronouns: Ele/dele
+- 🌱 Estou atualmente aprendendo Typescript e Angular
 
 <div align="center">
   <a href="https://github.com/DanielGutierres">
